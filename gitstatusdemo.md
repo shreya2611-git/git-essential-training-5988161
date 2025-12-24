@@ -3,3 +3,4 @@ New line.
 this is learning for conflict resolution.
 new line
 another line
+this is another challenge 2 line to learn conflict resolution.
